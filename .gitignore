@@ -8,6 +8,7 @@
 /etc
 /pkg
 /keydump
+contrib/docker-compose/devel/keydump
 __pycache__
 debian/files
 version-git-commit
