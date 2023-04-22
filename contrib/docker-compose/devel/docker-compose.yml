@@ -6,6 +6,7 @@ services:
     ports:
     - "11370:11370"
     - "11371:11371"
+    - "80:80"
     restart: always
     depends_on:
     - postgres
